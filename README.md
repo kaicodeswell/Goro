@@ -60,30 +60,30 @@ Food       : ₹ 450
 Transport  : ₹ 120
 Entertainment: ₹ 300
 Total      : ₹ 870
-🔮 Planned Improvements
-📝 Ability to edit/delete expenses
+# 🔮 Planned Improvements
+- 📝 Ability to edit/delete expenses
 
-📈 Graphs for monthly spending trends
+- 📈 Graphs for monthly spending trends
 
-📤 Export data to .csv
+- 📤 Export data to .csv
 
-🪟 GUI version using Tkinter
+- 🪟 GUI version using Tkinter
 
-🎯 Why "Goro"?
+# 🎯 Why "Goro"?
 "Goro" symbolizes a helping hand — a personal money manager in your terminal.
 Lightweight, minimal, and effective — just like the name.
 
-🙌 Contributing
+# 🙌 Contributing
 Have ideas to improve Goro?
 Feel free to fork the project, make changes, and submit a pull request!
 
-📜 License
+# 📜 License
 Licensed under the MIT License.
 
-🔗 Connect
-Made with ❤️ by @yourusername
-🤝 Contribute
+# 🔗 Connect
+Made with ❤️ by kai
+# 🤝 Contribute
 Want to improve Goro? Fork it, make your changes, and send a pull request! All ideas are welcome.
 
-📜 License
+# 📜 License
 This project is licensed under the MIT License.
