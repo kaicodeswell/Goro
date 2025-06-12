@@ -86,4 +86,7 @@ Made with ❤️ by kai
 Want to improve Goro? Fork it, make your changes, and send a pull request! All ideas are welcome.
 
 # 📜 License
-This project is licensed under the MIT License.
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE).
+
