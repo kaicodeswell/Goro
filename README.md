@@ -26,7 +26,7 @@
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/kaiisherebbg/goro.git
+   git clone https://github.com/kaicodeswell/goro.git
    cd goro
 Run the Tracker
 
