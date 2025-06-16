@@ -30,36 +30,27 @@
    cd goro
 Run the Tracker
 
-bash
-Copy
-Edit
-python expense_tracker.py
+`python expense_tracker.py`
 🖥️ Example Output
 pgsql
-Copy
-Edit
-===== Goro – Expense Tracker =====
-1. Add Expense
+`===== Goro – Expense Tracker =====`
+`1. Add Expense
 2. View All Expenses
 3. Filter by Date/Month
 4. Exit
-5. Show Category Summary
-bash
-Copy
-Edit
-Enter amount: ₹250
+5. Show Category Summary`
+
+`Enter amount: ₹250
 Enter category: food
 Note: Dinner with friends
 ✅ Expense saved!
-📊 Sample Summary Output
-yaml
-Copy
-Edit
-===== Expense Summary by Category =====
+📊 Sample Summary Output`
+
+`===== Expense Summary by Category =====
 Food       : ₹ 450
 Transport  : ₹ 120
 Entertainment: ₹ 300
-Total      : ₹ 870
+Total      : ₹ 870`
 # 🔮 Planned Improvements
 - 📝 Ability to edit/delete expenses
 
